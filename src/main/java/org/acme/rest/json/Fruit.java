@@ -1,7 +1,7 @@
 package org.acme.rest.json;
 
 public class Fruit {
-    // make a change to trigger
+    // make a change to trigger for helm
     public String name;
     public String description;
 
